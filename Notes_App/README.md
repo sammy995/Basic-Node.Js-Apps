@@ -7,5 +7,5 @@ Used:
   -chalk
   -nodemon
 - Stringyfy() & parse() 
--ES6 arrow Function syntax
+- ES6 arrow Function syntax
   
